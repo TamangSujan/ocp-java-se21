@@ -1,4 +1,4 @@
-package math.api;
+package api.math;
 
 import java.math.BigDecimal;
 import java.util.Random;
