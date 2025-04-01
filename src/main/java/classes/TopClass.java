@@ -8,7 +8,7 @@ public class TopClass {
     public class InnerMemberClass{}
 
     public final StaticInnerMemberClass nonStaticFieldOfInnerStaticClass = new StaticInnerMemberClass();
-    public final static StaticInnerMemberInterface staticFieldOfInterface = new StaticInnerMemberInterface() {}
+    public final static StaticInnerMemberInterface staticFieldOfInterface = new StaticInnerMemberInterface() {};
 
     public void method(){
         class LocalClass{}
